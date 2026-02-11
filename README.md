@@ -21,10 +21,6 @@ It showcases my skills, projects, and contact information as an aspiring Softwar
 - JavaScript
 - Bootstrap (if used)
 
-## 📌 Live Preview
-
-🔗 [View Portfolio Live](https://yourusername.github.io/repository-name/)
-
 ## 📬 Contact Me
 
 - 📧 Email: ravindudilhan203@gmail.com
